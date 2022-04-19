@@ -143,3 +143,7 @@ All of this was super hacky, but it actually worked!  So I now knew that pin fiv
 | 4 |None| N/A                    ||
 | 5 |Gray| Pulse Width modulation | +        |
 | 6 |None| N/A                    ||
+
+## Next
+
+[In the next entry, I go over analyzing the PWM signal and tracking down the replacement connectors.](../18-04-2022/entry.md)
