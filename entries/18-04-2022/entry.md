@@ -61,7 +61,7 @@ MATE-N-LOK 2 series and available from TE.com.
 | Male Housing Pin   |1-794221-0|https://www.te.com/usa-en/product-1-794221-0.html?te_bu=Cor&te_type=email&te_campaign=oth_usa_cor-oth-usa-email-ecomm-fy19-hbrs-oconf-prdlink_sma-716_2&elqCampaignId=37418|![](1-794221-0.webp)|
 | Female Housing     |794191-1|https://www.te.com/usa-en/product-794191-1.html?te_bu=Cor&te_type=email&te_campaign=oth_usa_cor-oth-usa-email-ecomm-fy19-hbrs-oconf-prdlink_sma-716_2&elqCampaignId=37418|![](794191-1.webp)|
 | Female Housing Pin |1-794228-0|https://www.te.com/usa-en/product-1-794228-0.html?te_bu=Cor&te_type=email&te_campaign=oth_usa_cor-oth-usa-email-ecomm-fy19-hbrs-oconf-prdlink_sma-716_2&elqCampaignId=37418|![](1-794228-0.webp)|
-| Female SMT Housing |770178-1|https://www.te.com/usa-en/product-770178-1.html?te_bu=Cor&te_type=email&te_campaign=oth_usa_cor-oth-usa-email-ecomm-fy19-hbrs-sconf-prdlink_sma-716_7&elqCampaignId=37423|![](770178-1.webp)|
+| Female PCB Housing |770178-1|https://www.te.com/usa-en/product-770178-1.html?te_bu=Cor&te_type=email&te_campaign=oth_usa_cor-oth-usa-email-ecomm-fy19-hbrs-sconf-prdlink_sma-716_7&elqCampaignId=37423|![](770178-1.webp)|
 
 Now with the connectors I can more easily test and repair the Tachometer.
 
