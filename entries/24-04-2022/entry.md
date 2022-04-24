@@ -1,5 +1,9 @@
 # April 24, 2022
 
+## Previous
+
+[In the previous entry I went over analyzing the original Tachometer](../18-04-2022/entry.md)
+
 ## Repairing Original Tachometer
 
 Now that we have all the information from the original Tachometer, it's time to repair it so we can use it this year.

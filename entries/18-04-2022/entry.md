@@ -65,3 +65,6 @@ MATE-N-LOK 2 series and available from TE.com.
 
 Now with the connectors I can more easily test and repair the Tachometer.
 
+## Next
+
+[In the next entry I go over repairing the original Tachometer.](../24-04-2022/entry.md)

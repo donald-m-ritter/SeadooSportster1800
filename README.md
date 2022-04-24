@@ -10,3 +10,4 @@ on her boat.
 ## Entries
 * [April 17, 2022 - Broken Tachometer](entries/17-04-2022/entry.md)
 * [April 18, 2022 - Analyzing PWM](entries/18-04-2022/entry.md)
+* [April 24, 2022 - Repairing Original Tachometer](entries/24-04-2022/entry.md)
